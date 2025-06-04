@@ -9,7 +9,7 @@ import { spacing } from './src/utils/sizes';
 
 const STATUSES = {
   COMPLETE: 1,
-  CANCELLED: 2,
+  CANCELLED: 2, 
 };
 
 export default function App() {
